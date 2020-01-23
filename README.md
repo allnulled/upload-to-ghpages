@@ -59,4 +59,4 @@ This way, you can:
 
 ## License
 
-This project is licensed under (WTFL)[http://www.wtfpl.net/], so do what you want with it.
+This project is licensed under [WTFL](http://www.wtfpl.net), so do what you want with it.
