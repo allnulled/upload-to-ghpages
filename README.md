@@ -4,15 +4,15 @@ This project is for you to comfortably upload the `dist` folder of your `vue` pr
 
 It only consist on 1 script, which must be located on `/dev` folder of the project.
 
-### Installation
+## Installation
 
 You can install this project like this from the root of your `vue` project:
 
-`~ git clone {url of this repository} .`
+`~ git clone https://github.com/allnulled/upload-to-ghpages.git .`
 
 It will add this `README.md` file (be careful to not override a previous one) and a `/dev/upload-to-ghpages.js` file.
 
-### Requirements
+## Requirements
 
 You also need to have installed in the `vue`'s `npm` project these tools:
 
@@ -26,7 +26,7 @@ You can do it all at once like this:
 
 Also, you need to have the `package.json#repository.url` fulfilled, as it will be used as reference for the script to know the URL of the repository.
 
-### How to use it
+## How to use it
 
 For you to run this script, you only need to:
 
@@ -34,7 +34,7 @@ For you to run this script, you only need to:
 
 That's all: you will push the current `vue` application to the `gh-pages` branch of your project.
 
-### Execution
+## Execution
 
 These are the steps that follows the script:
 
@@ -57,6 +57,6 @@ This way, you can:
   - keep all the branches of the repository for the development
   - keep the `gh-pages` branch only on the `dist` folder.
 
-### License
+## License
 
 This project is licensed under (WTFL)[http://www.wtfpl.net/], so do what you want with it.
